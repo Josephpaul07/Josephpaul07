@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m currently learning Android application Development using Kotlin<br><br> How to reach me josephpallathukudy@gmail.com
+ I’m Doing MCA in Christ University Banglore<br><br> How to reach me josephpallathukudy@gmail.com
 
 
 ## 🌐 Socials:
